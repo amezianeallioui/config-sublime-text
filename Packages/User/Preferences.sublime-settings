@@ -1,0 +1,29 @@
+{
+	"bold_folder_labels": true,
+	"color_scheme": "Packages/User/Color/Peacock.tmTheme",
+	"enable_tab_scrolling": false,
+	"folder_exclude_patterns":
+	[
+		".svn",
+		".git",
+		".hg",
+		"CVS",
+		".sass-cache",
+		"tmp",
+		"OLD",
+		"Vendor"
+	],
+	"font_size": 13,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"line_padding_bottom": 2,
+	"line_padding_top": 2,
+	"open_files_in_new_window": false,
+	"tab_size": 4,
+	"theme": "Spacegray.sublime-theme",
+	"trim_trailing_white_space_on_save": true,
+	"use_tab_stops": true,
+	"word_wrap": true
+}

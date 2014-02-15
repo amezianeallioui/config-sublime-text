@@ -1,0 +1,35 @@
+{
+	"installed_packages":
+	[
+		"Alignment",
+		"Bootstrap 3 Snippets",
+		"BracketHighlighter",
+		"CodeFormatter",
+		"ColorPicker",
+		"Emmet",
+		"Fat-Free Framework Snippets",
+		"HTML-CSS-JS Prettify",
+		"JavaScript Snippets",
+		"jQuery Snippets pack",
+		"LESS",
+		"LiveReload",
+		"Nettuts+ Fetch",
+		"Nodejs",
+		"PHP Completions Kit",
+		"Sass",
+		"SCSS",
+		"SFTP",
+		"Sublimall",
+		"SublimeCodeIntel",
+		"sublimelint",
+		"Theme - Flatland",
+		"Theme - Spacegray",
+		"UMD snippets",
+		"Wombat Theme",
+		"WordPress"
+	],
+	"repositories":
+	[
+		"https://raw.github.com/Grafikart/ST3-LiveReload/master/package.json"
+	]
+}

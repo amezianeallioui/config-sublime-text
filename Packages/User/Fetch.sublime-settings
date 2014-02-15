@@ -1,0 +1,13 @@
+{
+	"files":
+	{
+		"angularjs": "https://ajax.googleapis.com/ajax/libs/angularjs/1.1.5/angular.min.js",
+		"jquery": "http://code.jquery.com/jquery.min.js",
+		"less": "https://raw.github.com/less/less.js/master/dist/less-1.6.1.min.js"
+	},
+	"packages":
+	{
+		"Fat Free Framework": "https://github.com/bcosca/fatfree/archive/master.zip",
+		"html5_boilerplate": "https://github.com/h5bp/html5-boilerplate/zipball/master"
+	}
+}
